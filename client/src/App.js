@@ -1,5 +1,7 @@
 //import logo from './logo.svg';
 import { useEffect, useRef } from 'react';
+import ReactDOM from 'react-dom/client'; 
+import { render } from 'react-dom'; // 
 import TextareaAutosize from 'react-textarea-autosize';
 import './App.css';
 import './normal.css';
